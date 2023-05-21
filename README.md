@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/orRM0Ao.png"  width="600" height="175">
 
 # WHAT IS THIS?
-Here are all of my BlockBench assets that you can use for your MCBE project! 
+Here are all of my BlockBench assets, textures, and capes that you can use for your MCBE project(s)! 
 Note: These are strictly for the BEDROCK EDITION of Minecraft!
 
 # PREVIEW OF CAPES
